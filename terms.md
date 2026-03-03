@@ -29,7 +29,7 @@ If you add the Bot to a server, you represent that you have authority to do so a
 
 ## 6) Privacy
 Your use of the Bot is governed by the Privacy Policy:
-- https://colonelkassad.github.io/profoak-legal/privacy
+- https://colonelkassad.github.io/proffesor-oak-legal/privacy
 
 ## 7) Availability and Changes
 The Bot is provided **“as is”** and **“as available.”** We do not guarantee uninterrupted availability, error-free operation, or compatibility with changes to Discord or Pokétwo.

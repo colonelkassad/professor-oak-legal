@@ -1,2 +1,2 @@
-- [Privacy Policy](./privacy/)
-- [Terms of Service](./terms/)
+- [Privacy Policy](./privacy.html)
+- [Terms of Service](./terms.html)
